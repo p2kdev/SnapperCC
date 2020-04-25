@@ -1,0 +1,11 @@
+Package: com.p2kdev.snapper2cc
+Name: Snapper2 CC Toggle
+Depends: mobilesubstrate,com.opa334.ccsupport,com.jontelang.snapper2.packix
+Architecture: iphoneos-arm
+Description: Invoke the Snapper2 Tweak's actions using CC Toggle!
+Maintainer: P2KDev <p2kdev@gmail.com>
+Author: P2KDev <p2kdev@gmail.com>
+Section: Control Center (Modules)
+Icon: file:///Library/Application Support/Snapper2CC/icon.png
+Version: 1.0
+Installed-Size: 156
